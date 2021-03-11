@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom'
 import App from './App'
 
 ReactDOM.render(
-    <App message="Helle, React!" />,
+    <App />,
     document.getElementById('root')
 )
