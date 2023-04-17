@@ -1,4 +1,4 @@
-FROM node:12.14.1
+FROM node:19.9.0
 
 ENV APP_PATH=/app
 RUN mkdir $APP_PATH
